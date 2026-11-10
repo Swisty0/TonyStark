@@ -19,7 +19,7 @@ const client = new Client({
 });
 
 // BURAYA KENDİ BOT TOKEN'INI YAZ
-const TOKEN = 'BURAYA_BOT_TOKENINI_YAZ';
+const TOKEN = 'MTU2OTcwMzM1MTY1MjcyMDgwMw.GLAl93.sSf82P0zWIHnNyRUF-z_SLLBKWhHwIk6vrSwHM';
 
 client.once('ready', () => {
     console.log(`🤖 ${client.user.tag} başarıyla aktif ve çalışıyor!`);
